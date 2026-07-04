@@ -1,4 +1,4 @@
-# Redis Practice 01
+# Redis 
 
 This project shows how a Node.js backend can talk to Redis and MongoDB while those databases run locally in Docker containers.
 
