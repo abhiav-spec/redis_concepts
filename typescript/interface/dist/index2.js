@@ -1,4 +1,6 @@
 "use strict";
+// This is a TypeScript interface example that defines a user object with properties such as name, age, email, password, and an optional address. The printUserDetails function takes a user object as an argument and prints its details to the console. Two user objects are created and passed to the function to demonstrate its functionality.
+//how to use interiface inside another interface in typescript?
 Object.defineProperty(exports, "__esModule", { value: true });
 function printEmployeeDetails(employee) {
     console.log(`Employee ID: ${employee.emplyeeId}`);
